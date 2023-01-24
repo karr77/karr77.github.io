@@ -2,8 +2,20 @@
 title: 我的第一篇hexo博文
 date: 2023-01-24 16:10:31
 categories: # 分类
-- Axios
+- 前端
 tags: 
-- get
-- post
+- 学习历程
+summary_img: /images/kitty.jpg
 ---
+
+本科在读，信息管理与信息系统专业，接受新知
+
+写博客目的：
+
+​     一、梳理知识体系
+
+​     二、记录学习过程
+
+​     三、跪求大牛指点
+
+联系方式：1783425610@qq.com
