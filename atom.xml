@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-20T12:52:46.807Z</updated>
+  <updated>2023-02-20T13:27:52.818Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,17 +21,17 @@
     <link href="http://example.com/2023/02/20/%E6%8E%A5%E5%8F%A3API/"/>
     <id>http://example.com/2023/02/20/%E6%8E%A5%E5%8F%A3API/</id>
     <published>2023-02-20T12:47:55.000Z</published>
-    <updated>2023-02-20T12:52:46.807Z</updated>
+    <updated>2023-02-20T13:27:52.818Z</updated>
     
-    <content type="html"><![CDATA[<p> 一、梳理知识体系</p><p> 二、记录学习过程</p><p> 三、跪求大牛指点</p>]]></content>
+    <content type="html"><![CDATA[<ul><li>网易云：</li></ul><p><a href="https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi">https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi</a></p><ul><li>黑马shop:</li></ul><p><a href="https://www.showdoc.com.cn/128719739414963?page_id=2513235043485226">https://www.showdoc.com.cn/128719739414963?page_id=2513235043485226</a></p><ul><li>免费API接口：</li></ul><p><a href="https://api.btstu.cn/">https://api.btstu.cn/</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt; 一、梳理知识体系&lt;/p&gt;
-&lt;p&gt; 二、记录学习过程&lt;/p&gt;
-&lt;p&gt; 三、跪求大牛指点&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;网易云：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi&quot;&gt;https://binaryify.github.i</summary>
       
     
     
@@ -50,7 +50,7 @@
     <published>2023-01-24T08:10:31.000Z</published>
     <updated>2023-02-20T12:04:58.090Z</updated>
     
-    <content type="html"><![CDATA[<p>本科在读，信息管理与信息系统专业，接受新知</p><p>写博客目的：</p><p>​     一、梳理知识体系</p><p>​     二、记录学习过程</p><p>​     三、跪求大牛指点</p><p>联系方式：<a href="mailto:&#49;&#55;&#56;&#x33;&#52;&#x32;&#x35;&#54;&#49;&#48;&#x40;&#113;&#113;&#46;&#x63;&#111;&#109;">&#49;&#55;&#56;&#x33;&#52;&#x32;&#x35;&#54;&#49;&#48;&#x40;&#113;&#113;&#46;&#x63;&#111;&#109;</a></p>]]></content>
+    <content type="html"><![CDATA[<p>本科在读，信息管理与信息系统专业，接受新知</p><p>写博客目的：</p><p>​     一、梳理知识体系</p><p>​     二、记录学习过程</p><p>​     三、跪求大牛指点</p><p>联系方式：<a href="mailto:&#49;&#55;&#x38;&#51;&#52;&#50;&#53;&#54;&#x31;&#x30;&#x40;&#x71;&#x71;&#x2e;&#x63;&#111;&#109;">&#49;&#55;&#x38;&#51;&#52;&#50;&#53;&#54;&#x31;&#x30;&#x40;&#x71;&#x71;&#x2e;&#x63;&#111;&#109;</a></p>]]></content>
     
     
       
