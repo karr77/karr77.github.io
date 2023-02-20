@@ -7,14 +7,8 @@ tags:
 - 学习历程
 ---
 
-- 网易云：
+ 一、梳理知识体系
 
-https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi
+ 二、记录学习过程
 
-- 黑马shop: 
-
-https://www.showdoc.com.cn/128719739414963?page_id=2513235043485226
-
-- 免费API接口：
-
-https://api.btstu.cn/
+ 三、跪求大牛指点
