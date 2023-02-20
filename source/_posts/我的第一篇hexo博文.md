@@ -5,7 +5,7 @@ categories: # 分类
 - 前端
 tags: 
 - 学习历程
-summary_img: /images/kitty.jpg
+
 ---
 
 本科在读，信息管理与信息系统专业，接受新知
