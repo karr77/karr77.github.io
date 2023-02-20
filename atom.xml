@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-20T13:27:52.818Z</updated>
+  <updated>2023-02-20T13:30:30.439Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2023/02/20/%E6%8E%A5%E5%8F%A3API/"/>
     <id>http://example.com/2023/02/20/%E6%8E%A5%E5%8F%A3API/</id>
     <published>2023-02-20T12:47:55.000Z</published>
-    <updated>2023-02-20T13:27:52.818Z</updated>
+    <updated>2023-02-20T13:30:30.439Z</updated>
     
     <content type="html"><![CDATA[<ul><li>网易云：</li></ul><p><a href="https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi">https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi</a></p><ul><li>黑马shop:</li></ul><p><a href="https://www.showdoc.com.cn/128719739414963?page_id=2513235043485226">https://www.showdoc.com.cn/128719739414963?page_id=2513235043485226</a></p><ul><li>免费API接口：</li></ul><p><a href="https://api.btstu.cn/">https://api.btstu.cn/</a></p>]]></content>
     
@@ -36,7 +36,7 @@
     
     
     
-    <category term="前端" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    <category term="接口" scheme="http://example.com/categories/%E6%8E%A5%E5%8F%A3/"/>
     
     
     <category term="学习历程" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0%E5%8E%86%E7%A8%8B/"/>
@@ -50,7 +50,7 @@
     <published>2023-01-24T08:10:31.000Z</published>
     <updated>2023-02-20T12:04:58.090Z</updated>
     
-    <content type="html"><![CDATA[<p>本科在读，信息管理与信息系统专业，接受新知</p><p>写博客目的：</p><p>​     一、梳理知识体系</p><p>​     二、记录学习过程</p><p>​     三、跪求大牛指点</p><p>联系方式：<a href="mailto:&#49;&#55;&#x38;&#51;&#52;&#50;&#53;&#54;&#x31;&#x30;&#x40;&#x71;&#x71;&#x2e;&#x63;&#111;&#109;">&#49;&#55;&#x38;&#51;&#52;&#50;&#53;&#54;&#x31;&#x30;&#x40;&#x71;&#x71;&#x2e;&#x63;&#111;&#109;</a></p>]]></content>
+    <content type="html"><![CDATA[<p>本科在读，信息管理与信息系统专业，接受新知</p><p>写博客目的：</p><p>​     一、梳理知识体系</p><p>​     二、记录学习过程</p><p>​     三、跪求大牛指点</p><p>联系方式：<a href="mailto:&#x31;&#x37;&#56;&#x33;&#x34;&#x32;&#53;&#54;&#49;&#48;&#64;&#x71;&#113;&#46;&#99;&#x6f;&#109;">&#x31;&#x37;&#56;&#x33;&#x34;&#x32;&#53;&#54;&#49;&#48;&#64;&#x71;&#113;&#46;&#99;&#x6f;&#109;</a></p>]]></content>
     
     
       
@@ -60,7 +60,7 @@
 &lt;p&gt;​     一、梳理知识体系&lt;/p&gt;
 &lt;p&gt;​     二、记录学习过程&lt;/p&gt;
 &lt;p&gt;​     三、跪求大牛指点&lt;/p&gt;
-&lt;p&gt;联系方式：&lt;a href=&quot;mailto:&amp;#49;&amp;#</summary>
+&lt;p&gt;联系方式：&lt;a href=&quot;mailto:&amp;#x31;&amp;</summary>
       
     
     
